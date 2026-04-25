@@ -1,4 +1,3 @@
-
 # Retail Sales Intelligence & Profit Optimization System
 
 ## 🎯 Objective
@@ -27,23 +26,33 @@ This project solves these issues using data-driven insights.
 
 ## 📊 Dataset
 Superstore Retail Dataset including:
-- Sales
-- Profit
-- Quantity
-- Discount
+- Sales, Profit, Quantity, Discount
 - Category & Sub-Category
-- Region
-- Customer Segment
+- Region & Customer Segment
+
+---
+
+## 📁 Project Structure
+
+```text
+Retail-sales-intelligence-system/
+├── notebooks/
+├── images/
+├── requirements.txt
+├── README.md
+```
+
+---
 
 ## 📓 Interactive Notebook (HTML Version)
 
-👉 [View Analysis Report](notebooks/retail_analysis.html)
+👉 [Explore Full Interactive Data Analysis Report (Jupyter HTML Export)](notebooks/retail_analysis.html)
 
 This notebook includes:
-- Data cleaning and preprocessing  
-- KPI calculations  
-- Exploratory Data Analysis (EDA)  
-- Visualizations and business insights  
+- Data cleaning and preprocessing
+- KPI calculations
+- Exploratory Data Analysis (EDA)
+- Visualizations and business insights
 
 ---
 
@@ -101,21 +110,29 @@ This notebook includes:
 ---
 
 ### 📦 Category Performance Analysis
-<img width="578" height="543" alt="Sales by Catergory" src="https://github.com/user-attachments/assets/096f3482-3165-4381-bc2f-9616db473fd3" />
+<img width="578" height="543" alt="Sales by Category" src="https://github.com/user-attachments/assets/096f3482-3165-4381-bc2f-9616db473fd3" />
+
 - Revenue is concentrated in a few categories
 - Some high-sales categories are less profitable
 - Portfolio optimization is required
 
-### 📦 Sub-Category Performance Analysis
-<img src="images/subcategory_sales.png" width="700"/>
-- Sales are unevenly distributed across sub-categories  
-- A small number of sub-categories contribute majority of revenue  
-- Several sub-categories show weak performance 
+---
 
-👉 Insight: Revenue is highly concentrated in few sub-categories, creating dependency risk.
+### 📦 Sub-Category Performance Analysis
+
+<img src="https://github.com/user-attachments/assets/YOUR-IMAGE-ID" width="700" alt="Sub-Category Sales"/>
+- Sales are unevenly distributed across sub-categories
+- A small number of sub-categories contribute majority of revenue
+- Several sub-categories show weak performance
+
+> 💡 **Insight:** Revenue is highly concentrated in few sub-categories, creating dependency risk.
+
+---
 
 ## 📊 Power BI Dashboard
+
 Includes:
+
 - KPI Cards (Sales, Profit, Margin)
 - Trend Analysis (Monthly Sales/Profit)
 - Region Heatmap
@@ -123,7 +140,33 @@ Includes:
 - Discount vs Profit Scatter Plot
 
 ---
+
+## 🚀 How to Run This Project
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Laxmi0412/Retail-sales-intelligence-system.git
+```
+
+### 2️⃣ Navigate to project folder
+```bash
+cd Retail-sales-intelligence-system
+```
+
+### 3️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4️⃣ Launch Jupyter Notebook
+```bash
+jupyter notebook notebooks/retail_analysis.ipynb
+```
+
+---
+
 ## 💼 Business Impact
+
 This system helps businesses:
 - Optimize pricing strategy
 - Reduce unnecessary discounting
@@ -131,16 +174,4 @@ This system helps businesses:
 - Identify weak product categories
 - Improve regional strategy decisions
 
----
----
-
-🚀 How to Run This Project
-1️⃣ Clone the repository
-git clone https://github.com/Laxmi0412/Retail-sales-intelligence-system.git
-2️⃣ Navigate to project folder
-cd Retail-sales-intelligence-system
-3️⃣ Install dependencies
-pip install -r requirements.txt
-4️⃣ Launch Jupyter Notebook
-jupyter notebook notebooks/retail_analysis.ipynb
 
