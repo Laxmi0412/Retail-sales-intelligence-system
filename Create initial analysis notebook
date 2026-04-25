@@ -1,0 +1,34 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# 📊 Retail Sales Analysis\n",
+    "\n",
+    "This notebook performs data analysis on the Superstore dataset."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "metadata": {},
+   "source": [
+    "import pandas as pd\n",
+    "\n",
+    "df = pd.read_csv('../data/Sample-Superstore.csv', encoding='latin1')\n",
+    "df.head()"
+   ],
+   "outputs": [],
+   "execution_count": null
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
