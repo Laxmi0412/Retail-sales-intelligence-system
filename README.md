@@ -35,6 +35,16 @@ Superstore Retail Dataset including:
 - Region
 - Customer Segment
 
+## 📓 Interactive Notebook (HTML Version)
+
+👉 [View Analysis Report](notebooks/retail_analysis.html)
+
+This notebook includes:
+- Data cleaning and preprocessing  
+- KPI calculations  
+- Exploratory Data Analysis (EDA)  
+- Visualizations and insights  
+
 ---
 
 ## 🔑 Key Features
@@ -64,7 +74,7 @@ Superstore Retail Dataset including:
 ## 📈 Key Insights (Data-Driven Findings)
 
 ### 📊 Monthly Sales vs Profit Trend
-![Sales Trend](images/sales_trend.png)
+<img width="1012" height="486" alt="Monthly Sales and Profit Trend" src="https://github.com/user-attachments/assets/3e816d9b-d0fe-4086-a150-ef2fc929a187" />
 
 - Sales fluctuate across months due to seasonality
 - Profit does not always follow sales trend
@@ -73,7 +83,8 @@ Superstore Retail Dataset including:
 ---
 
 ### 📉 Discount vs Profit Relationship
-![Discount Scatter](images/discount_vs_profit.png)
+<img width="716" height="468" alt="Discount vs Profit Relationship" src="https://github.com/user-attachments/assets/7de292b8-c2ce-44d8-87d2-dbc496f9253f" />
+
 
 - Higher discounts strongly reduce profit
 - Many transactions operate at low or negative margins
@@ -82,7 +93,8 @@ Superstore Retail Dataset including:
 ---
 
 ### 🌍 Regional Performance Analysis
-![Region Heatmap](images/region_heatmap.png)
+<img width="566" height="433" alt="Regional Performance Heatmap" src="https://github.com/user-attachments/assets/0acfecff-0f7a-40ce-88ac-3127f044e3b6" />
+
 
 - Some regions generate high revenue but low profit
 - Performance varies significantly across geography
@@ -91,11 +103,19 @@ Superstore Retail Dataset including:
 ---
 
 ### 📦 Category Performance Analysis
-![Category Chart](images/category_sales.png)
-
+<img width="578" height="543" alt="Sales by Catergory" src="https://github.com/user-attachments/assets/096f3482-3165-4381-bc2f-9616db473fd3" />
 - Revenue is concentrated in a few categories
 - Some high-sales categories are less profitable
 - Portfolio optimization is required
+
+📦 Sub-Category Performance Analysis
+<img width="1012" height="521" alt="Sales by Sub- Catergory" src="https://github.com/user-attachments/assets/19626e6a-d29a-405f-89a2-ceaa3880c785" />
+
+Sales are unevenly distributed across sub-categories
+A small number of sub-categories contribute most of the revenue
+Several sub-categories have significantly lower sales performance
+
+👉 Insight: Sales concentration is high—business depends heavily on a few sub-categories
 
 ## 📊 Power BI Dashboard
 Includes:
@@ -106,7 +126,6 @@ Includes:
 - Discount vs Profit Scatter Plot
 
 ---
-
 ## 💼 Business Impact
 This system helps businesses:
 - Optimize pricing strategy
@@ -116,8 +135,3 @@ This system helps businesses:
 - Improve regional strategy decisions
 
 ---
-
-## 🚀 Future Improvements
-- Sales forecasting using Python (Prophet/ARIMA)
-- Customer segmentation (RFM analysis)
-- Real-time dashboard integration
