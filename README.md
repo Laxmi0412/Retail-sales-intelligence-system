@@ -43,7 +43,7 @@ This notebook includes:
 - Data cleaning and preprocessing  
 - KPI calculations  
 - Exploratory Data Analysis (EDA)  
-- Visualizations and insights  
+- Visualizations and business insights  
 
 ---
 
@@ -85,7 +85,6 @@ This notebook includes:
 ### 📉 Discount vs Profit Relationship
 <img width="716" height="468" alt="Discount vs Profit Relationship" src="https://github.com/user-attachments/assets/7de292b8-c2ce-44d8-87d2-dbc496f9253f" />
 
-
 - Higher discounts strongly reduce profit
 - Many transactions operate at low or negative margins
 - Discounting strategy needs optimization
@@ -94,7 +93,6 @@ This notebook includes:
 
 ### 🌍 Regional Performance Analysis
 <img width="566" height="433" alt="Regional Performance Heatmap" src="https://github.com/user-attachments/assets/0acfecff-0f7a-40ce-88ac-3127f044e3b6" />
-
 
 - Some regions generate high revenue but low profit
 - Performance varies significantly across geography
@@ -108,14 +106,13 @@ This notebook includes:
 - Some high-sales categories are less profitable
 - Portfolio optimization is required
 
-📦 Sub-Category Performance Analysis
-<img width="1012" height="521" alt="Sales by Sub- Catergory" src="https://github.com/user-attachments/assets/19626e6a-d29a-405f-89a2-ceaa3880c785" />
+### 📦 Sub-Category Performance Analysis
+<img src="images/subcategory_sales.png" width="700"/>
+- Sales are unevenly distributed across sub-categories  
+- A small number of sub-categories contribute majority of revenue  
+- Several sub-categories show weak performance 
 
-Sales are unevenly distributed across sub-categories
-A small number of sub-categories contribute most of the revenue
-Several sub-categories have significantly lower sales performance
-
-👉 Insight: Sales concentration is high—business depends heavily on a few sub-categories
+👉 Insight: Revenue is highly concentrated in few sub-categories, creating dependency risk.
 
 ## 📊 Power BI Dashboard
 Includes:
@@ -135,3 +132,15 @@ This system helps businesses:
 - Improve regional strategy decisions
 
 ---
+---
+
+🚀 How to Run This Project
+1️⃣ Clone the repository
+git clone https://github.com/Laxmi0412/Retail-sales-intelligence-system.git
+2️⃣ Navigate to project folder
+cd Retail-sales-intelligence-system
+3️⃣ Install dependencies
+pip install -r requirements.txt
+4️⃣ Launch Jupyter Notebook
+jupyter notebook notebooks/retail_analysis.ipynb
+
