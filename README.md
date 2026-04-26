@@ -46,7 +46,6 @@ Retail-sales-intelligence-system/
 ## 📓 Interactive Notebook (HTML Version)
 
 👉 [Explore Full Interactive Data Analysis Report (Jupyter HTML Export)](notebooks/retail_analysis.html)
-
 This notebook includes:
 - Data cleaning and preprocessing
 - KPI calculations
