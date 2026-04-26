@@ -25,12 +25,12 @@ This project solves these issues using data-driven insights.
 ---
 
 ## 📊 Dataset
-- Sales (Revenue measurement)  
-- Profit (Profitability metric)  
-- Quantity (Volume analysis)  
-- Discount (Pricing impact analysis)  
-- Category & Sub-Category (Product segmentation)  
-- Region & Customer Segment (Business segmentation)  
+Sales → Revenue measurement  
+Profit → Profitability metric  
+Quantity → Volume analysis  
+Discount → Pricing impact analysis  
+Category & Sub-Category → Product segmentation  
+Region & Customer Segment → Business segmentation  
 
 ---
 
@@ -114,8 +114,7 @@ This notebook includes:
  💡 **Insight:** Revenue is highly concentrated in few sub-categories, creating dependency risk.
 
 
-## 📊 Power BI Dashboard
-
+📊 Power BI Dashboard
 
 Includes:
 - KPI Cards (Sales, Profit, Margin)
