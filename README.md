@@ -43,8 +43,9 @@ Retail-sales-intelligence-system/
 ├── requirements.txt
 ├── README.md
 ```
-## 📓 Interactive Notebook (HTML Version)
-👉 [Open Full Interactive Data Analysis Report](./notebooks/retail_analysis.html)
+📓 Interactive Notebook (HTML Version)  
+👉 [Open Full Interactive Data Analysis Report](reports/retail_analysis.html)
+
 
 This notebook includes:
 - Data cleaning and preprocessing
