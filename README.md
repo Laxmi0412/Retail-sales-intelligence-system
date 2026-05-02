@@ -38,45 +38,55 @@ Cleaned missing and inconsistent values
 Standardized numerical fields (sales, profit, discount)
 Structured dataset for analytical processing
 
+
 2. KPI Development (SQL + Python)
 Total Sales
 Total Profit
 Profit Margin
 Discount Impact Ratio
 
+
 3. Exploratory Data Analysis (EDA)
 Sales vs Profit behavior analysis
 Discount impact evaluation
 Regional and category-level breakdowns
 
+
 4. Visualization & Dashboarding (Power BI)
 Built interactive dashboards for business users
 Enabled drill-down analysis by region, category, and time
 
+
 📈 Key Insights
+
 📊 1. Sales vs Profit Decoupling
 High sales do not consistently translate into high profit
 Several high-revenue periods show reduced profitability due to discounting pressure
+
 
 📉 2. Discount Impact on Profitability
 Strong negative correlation between discount rate and profit
 Excessive discounting leads to margin erosion
 Indicates inefficient pricing strategy in certain segments
 
+
 🌍 3. Regional Performance Imbalance
 Significant variation in profitability across regions
 Some high-sales regions underperform in profit contribution
 Suggests need for region-specific pricing and cost strategies
+
 
 📦 4. Category Concentration Risk
 Revenue is heavily concentrated in a few product categories
 Several categories contribute disproportionately low profit
 Indicates portfolio imbalance and optimization opportunity
 
+
 📦 5. Sub-Category Dependency Risk
 A small number of sub-categories drive most revenue
 Weak-performing sub-categories reduce overall efficiency
 Highlights dependency risk in product strategy
+
 
 📊 Power BI Dashboard Features
 KPI Cards (Sales, Profit, Margin)
@@ -85,6 +95,7 @@ Regional Performance Heatmap
 Category & Sub-Category Breakdown
 Discount vs Profit Relationship Analysis
 
+
 💡 Business Impact
 This system enables retail decision-makers to:
 Improve profitability through discount optimization
@@ -92,6 +103,7 @@ Identify loss-making product segments
 Optimize regional performance strategy
 Reduce dependency on low-diversity revenue streams
 Support data-driven pricing decisions
+
 
 📌 Strategic Recommendations
 Reduce aggressive discounting in low-margin segments
