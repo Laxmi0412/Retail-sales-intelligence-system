@@ -95,13 +95,14 @@ A small number of sub-categories drive most revenue, creating dependency risk an
 
 
 
+
+
 📊 Power BI Dashboard Features
 KPI Cards (Sales, Profit, Margin)
 Monthly Sales & Profit Trends
 Regional Performance Heatmap
 Category & Sub-Category Breakdown
 Discount vs Profit Relationship Analysis
-
 
 
 💡 Business Impact
