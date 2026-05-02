@@ -1,9 +1,11 @@
 Retail Sales Intelligence & Profit Optimization System
 
 📌 Overview
+
 This project is an end-to-end retail analytics system designed to evaluate sales performance, profit efficiency, and discount effectiveness. It transforms raw transactional data into actionable business insights to support pricing strategy, product optimization, and regional performance decisions.
 
 🎯 Business Objective
+
 Retail businesses often struggle with:
 High revenue but low profitability
 Over-reliance on discounting strategies
@@ -13,12 +15,14 @@ Unbalanced product category contribution
 This system addresses these challenges by identifying what drives profit vs what only drives sales.
 
 🧰 Tech Stack
+
 SQL → Data extraction, aggregation, KPI creation
 Python (Pandas, NumPy) → Data cleaning & exploratory analysis
 Power BI → Interactive dashboards & business reporting
 Excel → Initial data validation & preprocessing
 
 📊 Dataset Overview
+
 The dataset includes retail transactional data with the following attributes:
 Sales (Revenue generated per transaction)
 Profit (Net profitability per transaction)
