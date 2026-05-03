@@ -158,5 +158,6 @@ Reduce excessive discounting in low-margin segments
 
 
 **🚀 Outcome**
+
 This project demonstrates how retail transaction data can be transformed into actionable business intelligence using a modern analytics stack. It provides a scalable framework for profit optimization and strategic decision-making in retail environments.
 
