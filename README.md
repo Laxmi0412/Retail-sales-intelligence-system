@@ -14,41 +14,43 @@ Retail organizations often face inefficiencies such as:
 * Uneven product category contribution to overall margins
 This project addresses these issues by identifying what truly drives profit versus what only drives sales volume.
 
- *🛠️ Tech Stack
-**SQL→ Data extraction, aggregation, KPI computation
-**Python (Pandas, NumPy) → Data cleaning, transformation, exploratory analysis
-**Matplotlib / Seaborn → Data visualization and insights generation
-**Power BI → Interactive dashboards and business reporting
-**Excel → Initial data validation and preprocessing
-📂 Dataset Overview
+ **🛠️ Tech Stack**
+**SQL**→ Data extraction, aggregation, KPI computation
+**Python** (Pandas, NumPy) → Data cleaning, transformation, exploratory analysis
+**Matplotlib / Seaborn** → Data visualization and insights generation
+**Power BI** → Interactive dashboards and business reporting
+**Excel** → Initial data validation and preprocessing
+
+**📂 Dataset Overview**
 
 The dataset contains retail transactional-level data with the following attributes:
 
-Sales → Revenue per transaction
-Profit → Net profit per transaction
-Quantity → Units sold
-Discount → Discount applied per transaction
-Category & Sub-Category → Product segmentation
-Region → Geographic segmentation
-Customer Segment → Customer classification
-⚙️ Project Workflow
-1. Data Preparation
-Cleaned missing and inconsistent values
-Standardized numerical fields (Sales, Profit, Discount)
-Structured dataset for analysis
-2. KPI Development (SQL + Python)
+*Sales* → Revenue per transaction
+*Profit* → Net profit per transaction
+*Quantity* → Units sold
+*Discount* → Discount applied per transaction
+*Category & Sub-Category* → Product segmentation
+*Region* → Geographic segmentation
+*Customer Segment* → Customer classification
 
+**⚙️ Project Workflow**
+**1. Data Preparation**
+* Cleaned missing and inconsistent values
+* Standardized numerical fields (Sales, Profit, Discount)
+* Structured dataset for analysis
+
+**2. KPI Development (SQL + Python)**
 Key business metrics calculated:
+*Total Sales*
+*Total Profit*
+*Profit Margin*
+*Discount Impact Ratio*
 
-Total Sales
-Total Profit
-Profit Margin
-Discount Impact Ratio
-3. Exploratory Data Analysis (EDA)
-Sales vs Profit relationship analysis
-Discount impact on profitability
-Regional performance comparison
-Category and sub-category contribution analysis
+**3. Exploratory Data Analysis (EDA)**
+*Sales vs Profit relationship analysis*
+*Discount impact on profitability*
+*Regional performance comparison*
+*Category and sub-category contribution analysis*
 4. Visualization & Dashboarding (Power BI)
 Built interactive dashboards for business stakeholders
 Enabled drill-down analysis by region, category, and time
