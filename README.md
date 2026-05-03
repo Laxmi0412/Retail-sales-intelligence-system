@@ -18,6 +18,7 @@ Retail organizations often face inefficiencies such as:
 
 This project addresses these issues by identifying what truly drives profit versus what only drives sales volume.
 
+
 **🛠️ Tech Stack**
 
 **SQL**→ Data extraction, aggregation, KPI computation
@@ -35,7 +36,7 @@ This project addresses these issues by identifying what truly drives profit vers
 
 The dataset contains retail transactional-level data with the following attributes:
 
-*Sales* → Revenue per transaction
+++Sales++ → Revenue per transaction
 
 *Profit* → Net profit per transaction
 
