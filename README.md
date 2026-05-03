@@ -46,12 +46,13 @@ The dataset contains retail transactional-level data with the following attribut
 
 * Category & Sub-Category → Product segmentation
 
-*Region → Geographic segmentation
+* Region → Geographic segmentation
 
-*Customer Segment → Customer classification
+* Customer Segment → Customer classification
 
 
 **⚙️ Project Workflow**
+
 **1. Data Preparation**
 * Cleaned missing and inconsistent values
 * Standardized numerical fields (Sales, Profit, Discount)
@@ -59,23 +60,27 @@ The dataset contains retail transactional-level data with the following attribut
 
 **2. KPI Development (SQL + Python)**
 Key business metrics calculated:
-*Total Sales*
-*Total Profit*
-*Profit Margin*
-*Discount Impact Ratio*
+* Total Sales
+* Total Profit
+* Profit Margin
+* Discount Impact Ratio
+
 
 **3. Exploratory Data Analysis (EDA)**
-*Sales vs Profit relationship analysis*
-*Discount impact on profitability*
-*Regional performance comparison*
-*Category and sub-category contribution analysis*
+* Sales vs Profit relationship analysis
+* Discount impact on profitability
+* Regional performance comparison
+* Category and sub-category contribution analysis
+
 
 **4. Visualization & Dashboarding (Power BI)**
-* Built interactive dashboards for business stakeholders *
-* Enabled drill-down analysis by region, category, and time *
-* Designed KPI-driven visual storytelling for decision-making *
+* Built interactive dashboards for business stakeholders 
+* Enabled drill-down analysis by region, category, and time 
+* Designed KPI-driven visual storytelling for decision-making 
+
 
 **📈 Key Insights**
+
 **1. Sales–Profit Decoupling**
 High revenue does not consistently translate into high profit. Several high-sales periods show reduced profitability due to excessive discounting.
 
