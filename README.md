@@ -54,6 +54,7 @@ The dataset contains retail transactional-level data with the following attribut
 - Customer Segment → Customer classification
 
 
+
 **⚙️ Project Workflow**
 
 **1. Data Preparation**
@@ -82,7 +83,9 @@ Key business metrics calculated:
 * Designed KPI-driven visual storytelling for decision-making 
 
 
+
 **📈 Key Insights**
+
 
 **1. Sales–Profit Decoupling**
 
