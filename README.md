@@ -15,10 +15,10 @@ Retail organizations often face inefficiencies such as:
 This project addresses these issues by identifying what truly drives profit versus what only drives sales volume.
 
  *🛠️ Tech Stack
-**SQL*→ Data extraction, aggregation, KPI computation
-**Python (Pandas, NumPy)* → Data cleaning, transformation, exploratory analysis
-**Matplotlib / Seaborn *→ Data visualization and insights generation
-**Power BI *→ Interactive dashboards and business reporting
+**SQL→ Data extraction, aggregation, KPI computation
+**Python (Pandas, NumPy) → Data cleaning, transformation, exploratory analysis
+**Matplotlib / Seaborn → Data visualization and insights generation
+**Power BI → Interactive dashboards and business reporting
 **Excel → Initial data validation and preprocessing
 📂 Dataset Overview
 
