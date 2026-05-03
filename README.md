@@ -5,31 +5,31 @@
 
 An end-to-end retail analytics system designed to evaluate sales performance, profitability, and discount efficiency. The project transforms raw transactional data into actionable business intelligence, helping identify margin leakage, optimize pricing strategy, and improve regional and product-level profitability.
 
-The analysis highlights a key retail challenge:**high revenue does not always translate into high profit due to aggressive discounting and uneven category performance**.
+The analysis highlights a key retail challenge: **high revenue does not always translate into high profit due to aggressive discounting and uneven category performance**.
 
 
 🎯 **Business Problem**
 
 Retail organizations often face inefficiencies such as:
-* Revenue growth without proportional profit improvement
-* Over-dependence on discount-driven sales strategies
-* Lack of visibility into regional profitability differences
-* Uneven product category contribution to overall margins
+- Revenue growth without proportional profit improvement
+- Over-dependence on discount-driven sales strategies
+- Lack of visibility into regional profitability differences
+- Uneven product category contribution to overall margins
 
 This project addresses these issues by identifying what truly drives profit versus what only drives sales volume.
 
 
 **🛠️ Tech Stack**
 
-**SQL**→ Data extraction, aggregation, KPI computation
+**SQL**→ ** Data extraction, aggregation, KPI computation
 
-**Python (Pandas, NumPy)** → Data cleaning, transformation, exploratory analysis
+**Python (Pandas, NumPy)** → ** Data cleaning, transformation, exploratory analysis
 
-**Matplotlib / Seaborn** → Data visualization and insights generation
+**Matplotlib / Seaborn** → ** Data visualization and insights generation
 
-**Power BI** → Interactive dashboards and business reporting
+**Power BI** →  ** Interactive dashboards and business reporting
 
-**Excel** → Initial data validation and preprocessing
+**Excel** → ** Initial data validation and preprocessing
 
 
 **📂 Dataset Overview**
@@ -152,5 +152,3 @@ Reduce excessive discounting in low-margin segments
 **🚀 Outcome**
 This project demonstrates how retail transaction data can be transformed into actionable business intelligence using a modern analytics stack. It provides a scalable framework for profit optimization and strategic decision-making in retail environments.
 
-
-modern analytics stack. It provides a scalable framework for profit optimization and strategic decision-making in retail environments.
