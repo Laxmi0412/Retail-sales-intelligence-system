@@ -1,31 +1,32 @@
 📊 Retail Sales Intelligence & Profit Optimization System
+
 📌 Executive Summary
+An end-to-end retail analytics system designed to evaluate sales performance, profitability, and discount efficiency. The project transforms raw transactional data into actionable business intelligence, helping identify margin leakage, optimize pricing strategy, and improve regional and product-level profitability.
 
-An end-to-end retail analytics system designed to evaluate sales performance, profitability, and discount efficiency. The project transforms raw transactional data into actionable business intelligence, **helping identify margin leakage, optimize pricing strategy, and improve regional and product-level profitability**.
+The analysis highlights a key retail challenge:**high revenue does not always translate into high profit due to aggressive discounting and uneven category performance**.
 
-The analysis highlights a key retail challenge: high revenue does not always translate into high profit due to aggressive discounting and uneven category performance.
 
 🎯 **Business Problem**
-
 Retail organizations often face inefficiencies such as:
 * Revenue growth without proportional profit improvement
 * Over-dependence on discount-driven sales strategies
 * Lack of visibility into regional profitability differences
 * Uneven product category contribution to overall margins
+
 This project addresses these issues by identifying what truly drives profit versus what only drives sales volume.
 
 
 **🛠️ Tech Stack**
+
 **SQL**→ Data extraction, aggregation, KPI computation
 **Python (Pandas, NumPy)** → Data cleaning, transformation, exploratory analysis
 **Matplotlib / Seaborn** → Data visualization and insights generation
 **Power BI** → Interactive dashboards and business reporting
 **Excel** → Initial data validation and preprocessing
 
+
 **📂 Dataset Overview**
-
 The dataset contains retail transactional-level data with the following attributes:
-
 *Sales* → Revenue per transaction
 *Profit* → Net profit per transaction
 *Quantity* → Units sold
