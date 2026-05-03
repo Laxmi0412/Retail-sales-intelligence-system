@@ -5,7 +5,7 @@ An end-to-end retail analytics system designed to evaluate sales performance, pr
 
 The analysis highlights a key retail challenge: high revenue does not always translate into high profit due to aggressive discounting and uneven category performance.
 
-🎯 Business Problem
+🎯 **Business Problem**
 
 Retail organizations often face inefficiencies such as:
 * Revenue growth without proportional profit improvement
@@ -14,9 +14,10 @@ Retail organizations often face inefficiencies such as:
 * Uneven product category contribution to overall margins
 This project addresses these issues by identifying what truly drives profit versus what only drives sales volume.
 
- **🛠️ Tech Stack**
+
+**🛠️ Tech Stack**
 **SQL**→ Data extraction, aggregation, KPI computation
-**Python** (Pandas, NumPy) → Data cleaning, transformation, exploratory analysis
+**Python (Pandas, NumPy)** → Data cleaning, transformation, exploratory analysis
 **Matplotlib / Seaborn** → Data visualization and insights generation
 **Power BI** → Interactive dashboards and business reporting
 **Excel** → Initial data validation and preprocessing
@@ -51,11 +52,11 @@ Key business metrics calculated:
 *Discount impact on profitability*
 *Regional performance comparison*
 *Category and sub-category contribution analysis*
-4. Visualization & Dashboarding (Power BI)
-Built interactive dashboards for business stakeholders
-Enabled drill-down analysis by region, category, and time
-Designed KPI-driven visual storytelling for decision-making
 
+**4. Visualization & Dashboarding (Power BI)**
+* Built interactive dashboards for business stakeholders *
+* Enabled drill-down analysis by region, category, and time *
+* Designed KPI-driven visual storytelling for decision-making *
 
 📈 Key Insights
 1. Sales–Profit Decoupling
