@@ -74,21 +74,37 @@ Designed KPI-driven visual storytelling for decision-making
 
 High revenue does not consistently translate into high profit. Several high-sales periods show reduced profitability due to excessive discounting.
 
+<img width="857" height="487" alt="sales vs profit trind" src="https://github.com/user-attachments/assets/beaff45f-4dc6-4db2-9145-7d469c0a9dab" />
+
+
+
 2. Discount Impact on Profitability
 
 There is a strong negative relationship between discount levels and profit. Higher discounting significantly reduces margins, indicating inefficient pricing strategies.
+
+<img width="561" height="393" alt="Discount vs profit (Impact on probability)" src="https://github.com/user-attachments/assets/880711db-3c8a-4267-9aa8-c00c693ead1d" />
+
 
 3. Regional Performance Imbalance
 
 Profitability varies significantly across regions. Some high-revenue regions contribute disproportionately low profit, indicating the need for region-specific pricing strategies.
 
+<img width="644" height="393" alt="profit by region" src="https://github.com/user-attachments/assets/27986036-f114-422e-a3ec-ef455798692c" />
+
+
 4. Category Concentration Risk
 
 Revenue and profit are concentrated in a small number of categories, while several categories contribute minimal or negative returns.
 
+<img width="566" height="393" alt="profit by catergory" src="https://github.com/user-attachments/assets/73d53bfb-08b4-4e64-9f27-16599f2b8ebd" />
+
+
 5. Sub-Category Dependency Risk
 
 A limited number of sub-categories drive the majority of revenue, creating dependency risk and limiting portfolio diversification.
+
+<img width="860" height="537" alt="profit- sub catergory" src="https://github.com/user-attachments/assets/f7a6c951-d518-4e1a-aa02-94daec9f3d9a" />
+
 
 📊 Power BI Dashboard Features
 KPI Cards: Sales, Profit, Profit Margin
@@ -116,6 +132,8 @@ Focus on high-profit product categories
 Reassess pricing strategy in underperforming regions
 Diversify revenue across sub-categories
 Continuously monitor discount impact on profitability
+
+
 
 🚀 Outcome
 This project demonstrates how retail transaction data can be transformed into actionable business intelligence using a modern analytics stack. It provides a scalable framework for profit optimization and strategic decision-making in retail environments.
