@@ -7,6 +7,7 @@ The analysis highlights a key retail challenge:**high revenue does not always tr
 
 
 🎯 **Business Problem**
+
 Retail organizations often face inefficiencies such as:
 * Revenue growth without proportional profit improvement
 * Over-dependence on discount-driven sales strategies
@@ -17,7 +18,6 @@ This project addresses these issues by identifying what truly drives profit vers
 
 
 **🛠️ Tech Stack**
-
 **SQL**→ Data extraction, aggregation, KPI computation
 **Python (Pandas, NumPy)** → Data cleaning, transformation, exploratory analysis
 **Matplotlib / Seaborn** → Data visualization and insights generation
@@ -26,6 +26,7 @@ This project addresses these issues by identifying what truly drives profit vers
 
 
 **📂 Dataset Overview**
+
 The dataset contains retail transactional-level data with the following attributes:
 *Sales* → Revenue per transaction
 *Profit* → Net profit per transaction
