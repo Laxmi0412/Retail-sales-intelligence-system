@@ -36,11 +36,11 @@ This project addresses these issues by identifying what truly drives profit vers
 
 The dataset contains retail transactional-level data with the following attributes:
 
-*Sales* → Revenue per transaction
+*Sales → Revenue per transaction
 
-*Profit* → Net profit per transaction
+*Profit → Net profit per transaction
 
-*Quantity* → Units sold
+*Quantity → Units sold
 
 *Discount* → Discount applied per transaction
 
