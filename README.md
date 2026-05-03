@@ -1,12 +1,10 @@
 📊 Retail Sales Intelligence & Profit Optimization System
 
-
 📌 Executive Summary
 
 An end-to-end retail analytics system designed to evaluate sales performance, profitability, and discount efficiency. The project transforms raw transactional data into actionable business intelligence, helping identify margin leakage, optimize pricing strategy, and improve regional and product-level profitability.
 
 The system highlights a critical retail challenge: high revenue does not always translate into high profit, primarily due to aggressive discounting and uneven category performance.
-
 
 
 🎯 Business Problem
@@ -22,26 +20,39 @@ This project addresses these issues by analyzing what truly drives profit versus
 
 
 🛠️ Tech Stack
+
 SQL → Data extraction, aggregation, KPI computation
+
 Python (Pandas, NumPy) → Data cleaning, transformation, exploratory analysis
+
 Matplotlib / Seaborn → Data visualization and statistical insights
+
 Power BI → Interactive dashboards and business reporting
+
 Excel → Initial data validation and preprocessing
 
 📂 Dataset Overview
 
 The dataset contains retail transactional-level data with the following attributes:
 
+
 Sales → Revenue per transaction
+
 Profit → Net profit per transaction
+
 Quantity → Units sold
+
 Discount → Discount applied per transaction
+
 Category & Sub-Category → Product segmentation
+
 Region → Geographic segmentation
+
 Customer Segment → Customer classification
 
 
 ⚙️ Project Workflow
+
 1. Data Preparation
 Cleaned missing and inconsistent values
 Standardized numerical fields (Sales, Profit, Discount)
@@ -154,4 +165,4 @@ Continuously monitor discount impact on profitability
 This project demonstrates how retail transaction data can be transformed into actionable business intelligence using a modern analytics stack. It provides a scalable framework for profit optimization and strategic decision-making in retail environments.
 
 
-This project demonstrates how retail transaction data can be transformed into actionable business intelligence using a modern analytics stack. It provides a scalable framework for profit optimization and strategic decision-making in retail environments.
+modern analytics stack. It provides a scalable framework for profit optimization and strategic decision-making in retail environments.
