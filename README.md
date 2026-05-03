@@ -24,15 +24,15 @@ This project addresses these issues by identifying what truly drives profit vers
 
 **🛠️ Tech Stack**
 
-** SQL→** Data extraction, aggregation, KPI computation
+- SQL→ Data extraction, aggregation, KPI computation
 
-** Python (Pandas, NumPy) → ** Data cleaning, transformation, exploratory analysis
+- Python (Pandas, NumPy) →  Data cleaning, transformation, exploratory analysis
 
-** Matplotlib / Seaborn → ** Data visualization and insights generation
+-  Matplotlib / Seaborn → Data visualization and insights generation
 
-** Power BI → ** Interactive dashboards and business reporting
+- Power BI → Interactive dashboards and business reporting
 
- ** Excel →  ** Initial data validation and preprocessing
+ - Excel →  Initial data validation and preprocessing
 
 
 **📂 Dataset Overview**
