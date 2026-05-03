@@ -2,6 +2,7 @@
   **📊 Retail Sales Intelligence & Profit Optimization System**
        
 **📌 Executive Summary**
+
 An end-to-end retail analytics system designed to evaluate sales performance, profitability, and discount efficiency. The project transforms raw transactional data into actionable business intelligence, helping identify margin leakage, optimize pricing strategy, and improve regional and product-level profitability.
 
 The analysis highlights a key retail challenge:**high revenue does not always translate into high profit due to aggressive discounting and uneven category performance**.
@@ -65,50 +66,49 @@ Key business metrics calculated:
 * Enabled drill-down analysis by region, category, and time *
 * Designed KPI-driven visual storytelling for decision-making *
 
-📈 Key Insights
-1. Sales–Profit Decoupling
+**📈 Key Insights**
+**1. Sales–Profit Decoupling**
 High revenue does not consistently translate into high profit. Several high-sales periods show reduced profitability due to excessive discounting.
 
 <img width="857" height="487" alt="sales vs profit trind" src="https://github.com/user-attachments/assets/beaff45f-4dc6-4db2-9145-7d469c0a9dab" />
 
-
-2. Discount Impact on Profitability
+**2. Discount Impact on Profitability**
 There is a strong negative relationship between discount levels and profit. Higher discounts significantly reduce margins, indicating inefficient pricing strategies.
 
 <img width="561" height="393" alt="Discount vs profit (Impact on probability)" src="https://github.com/user-attachments/assets/880711db-3c8a-4267-9aa8-c00c693ead1d" />
 
 
-3. Regional Performance Imbalance
+**3. Regional Performance Imbalance**
 Profitability varies significantly across regions. Some high-sales regions contribute disproportionately low profit, highlighting the need for region-specific pricing strategies.
 
 <img width="644" height="393" alt="profit by region" src="https://github.com/user-attachments/assets/27986036-f114-422e-a3ec-ef455798692c" />
 
 
-4. Category Concentration Risk
+**4. Category Concentration Risk**
 Revenue and profit are concentrated in a small number of categories, while several categories contribute low or negative returns.
 
 <img width="566" height="393" alt="profit by catergory" src="https://github.com/user-attachments/assets/73d53bfb-08b4-4e64-9f27-16599f2b8ebd" />
 
 
-5. Sub-Category Dependency Risk
+**5. Sub-Category Dependency Risk**
 A limited number of sub-categories drive most revenue, creating dependency risk and limiting diversification.
 
 <img width="860" height="537" alt="profit- sub catergory" src="https://github.com/user-attachments/assets/f7a6c951-d518-4e1a-aa02-94daec9f3d9a" />
 
 
-📊 Power BI Dashboard Features
+**📊 Power BI Dashboard Features**
 
-KPI Cards: Sales, Profit, Profit Margin
+*KPI Cards: Sales, Profit, Profit Margin*
 
-Monthly Sales & Profit Trends
+*Monthly Sales & Profit Trends*
 
-Regional Profitability Heatmap
+*Regional Profitability Heatmap*
 
-Category & Sub-Category Performance Breakdown
+*Category & Sub-Category Performance Breakdown*
 
-Discount vs Profit Correlation Analysis
+*Discount vs Profit Correlation Analysis*
 
-Interactive drill-down filters
+*Interactive drill-down filters*
 
 
 💡 Business Impact
