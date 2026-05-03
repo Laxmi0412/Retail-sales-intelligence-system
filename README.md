@@ -107,11 +107,17 @@ A limited number of sub-categories drive the majority of revenue, creating depen
 
 
 📊 Power BI Dashboard Features
+
 KPI Cards: Sales, Profit, Profit Margin
+
 Monthly Sales & Profit Trends
+
 Regional Profitability Heatmap
+
 Category & Sub-Category Performance Breakdown
+
 Discount vs Profit Correlation Analysis
+
 Interactive drill-down filters
 
 
@@ -120,17 +126,26 @@ Interactive drill-down filters
 This system enables data-driven decision-making by:
 
 Identifying pricing inefficiencies and margin leakage
+
 Reducing over-reliance on discount-driven revenue
+
+
 Improving profitability across underperforming regions
+
 Optimizing product category strategy
+
 Supporting portfolio diversification decisions
 
 
 📌 Key Recommendations
 Reduce excessive discounting in low-margin segments
+
 Focus on high-profit product categories
+
 Reassess pricing strategy in underperforming regions
+
 Diversify revenue across sub-categories
+
 Continuously monitor discount impact on profitability
 
 
