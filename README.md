@@ -82,7 +82,7 @@ Key business metrics calculated:
 **📈 Key Insights**
 
 **1. Sales–Profit Decoupling**
-High revenue does not consistently translate into high profit. Several high-sales periods show reduced profitability due to excessive discounting.
+  High revenue does not consistently translate into high profit. Several high-sales periods show reduced profitability due to excessive discounting.
 
 <img width="857" height="487" alt="sales vs profit trind" src="https://github.com/user-attachments/assets/beaff45f-4dc6-4db2-9145-7d469c0a9dab" />
 
@@ -91,18 +91,15 @@ There is a strong negative relationship between discount levels and profit. High
 
 <img width="561" height="393" alt="Discount vs profit (Impact on probability)" src="https://github.com/user-attachments/assets/880711db-3c8a-4267-9aa8-c00c693ead1d" />
 
-
 **3. Regional Performance Imbalance**
 Profitability varies significantly across regions. Some high-sales regions contribute disproportionately low profit, highlighting the need for region-specific pricing strategies.
 
 <img width="644" height="393" alt="profit by region" src="https://github.com/user-attachments/assets/27986036-f114-422e-a3ec-ef455798692c" />
 
-
 **4. Category Concentration Risk**
 Revenue and profit are concentrated in a small number of categories, while several categories contribute low or negative returns.
 
 <img width="566" height="393" alt="profit by catergory" src="https://github.com/user-attachments/assets/73d53bfb-08b4-4e64-9f27-16599f2b8ebd" />
-
 
 **5. Sub-Category Dependency Risk**
 A limited number of sub-categories drive most revenue, creating dependency risk and limiting diversification.
@@ -112,48 +109,47 @@ A limited number of sub-categories drive most revenue, creating dependency risk 
 
 **📊 Power BI Dashboard Features**
 
-*KPI Cards: Sales, Profit, Profit Margin*
+* KPI Cards: Sales, Profit, Profit Margin
 
-*Monthly Sales & Profit Trends*
+* Monthly Sales & Profit Trends
 
-*Regional Profitability Heatmap*
+* Regional Profitability Heatmap
 
-*Category & Sub-Category Performance Breakdown*
+* Category & Sub-Category Performance Breakdown
 
-*Discount vs Profit Correlation Analysis*
+* Discount vs Profit Correlation Analysis
 
-*Interactive drill-down filters*
+* Interactive drill-down filters
 
 
-💡 Business Impact
+**💡 Business Impact**
 
 This system enables data-driven decision-making by:
 
-Identifying pricing inefficiencies and margin leakage
+* Identifying pricing inefficiencies and margin leakage
 
-Reducing over-reliance on discount-driven revenue
+* Reducing over-reliance on discount-driven revenue
 
-Improving profitability across underperforming regions
+* Improving profitability across underperforming regions
 
-Optimizing product category strategy
+* Optimizing product category strategy
 
-Supporting portfolio diversification decisions
+* Supporting portfolio diversification decisions
 
 
-📌 Key Recommendations
+**📌 Key Recommendations**
 Reduce excessive discounting in low-margin segments
 
-Focus on high-profit product categories
+* Focus on high-profit product categories
 
-Reassess pricing strategy in underperforming regions
+* Reassess pricing strategy in underperforming regions
 
-Diversify revenue across sub-categories
+* Diversify revenue across sub-categories
 
-Continuously monitor discount impact on profitability
+* Continuously monitor discount impact on profitability
 
 
-
-🚀 Outcome
+**🚀 Outcome**
 This project demonstrates how retail transaction data can be transformed into actionable business intelligence using a modern analytics stack. It provides a scalable framework for profit optimization and strategic decision-making in retail environments.
 
 
