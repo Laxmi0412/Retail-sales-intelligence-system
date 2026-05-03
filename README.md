@@ -36,19 +36,19 @@ This project addresses these issues by identifying what truly drives profit vers
 
 The dataset contains retail transactional-level data with the following attributes:
 
-*Sales → Revenue per transaction
+* Sales → Revenue per transaction
 
-*Profit → Net profit per transaction
+* Profit → Net profit per transaction
 
-*Quantity → Units sold
+* Quantity → Units sold
 
-*Discount* → Discount applied per transaction
+* Discount → Discount applied per transaction
 
-*Category & Sub-Category* → Product segmentation
+* Category & Sub-Category → Product segmentation
 
-*Region* → Geographic segmentation
+*Region → Geographic segmentation
 
-*Customer Segment* → Customer classification
+*Customer Segment → Customer classification
 
 
 **⚙️ Project Workflow**
