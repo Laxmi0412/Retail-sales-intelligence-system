@@ -1,6 +1,7 @@
 
   **📊 Retail Sales Intelligence & Profit Optimization System**
-       
+ ## 🧠 Project Type
+End-to-End Data Analytics | Business Intelligence | Retail Optimization
 **📌 Executive Summary**
 
 An end-to-end retail analytics system designed to evaluate sales performance, profitability, and discount efficiency. The project transforms raw transactional data into actionable business intelligence, helping identify margin leakage, optimize pricing strategy, and improve regional and product-level profitability.
@@ -21,34 +22,34 @@ This project addresses these issues by identifying what truly drives profit vers
 
 **🛠️ Tech Stack**
 
-- SQL→ Data extraction, aggregation, KPI computation
+** SQL→** Data extraction, aggregation, KPI computation
 
-- Python (Pandas, NumPy) →  Data cleaning, transformation, exploratory analysis
+** Python (Pandas, NumPy) → ** Data cleaning, transformation, exploratory analysis
 
-- Matplotlib / Seaborn →  Data visualization and insights generation
+** Matplotlib / Seaborn → ** Data visualization and insights generation
 
-- Power BI → Interactive dashboards and business reporting
+** Power BI → ** Interactive dashboards and business reporting
 
-- Excel →  Initial data validation and preprocessing
+ ** Excel →  ** Initial data validation and preprocessing
 
 
 **📂 Dataset Overview**
 
 The dataset contains retail transactional-level data with the following attributes:
 
-* Sales → Revenue per transaction
+- Sales → Revenue per transaction
 
-* Profit → Net profit per transaction
+- Profit → Net profit per transaction
 
-* Quantity → Units sold
+- Quantity → Units sold
 
-* Discount → Discount applied per transaction
+- Discount → Discount applied per transaction
 
-* Category & Sub-Category → Product segmentation
+- Category & Sub-Category → Product segmentation
 
-* Region → Geographic segmentation
+- Region → Geographic segmentation
 
-* Customer Segment → Customer classification
+- Customer Segment → Customer classification
 
 
 **⚙️ Project Workflow**
@@ -82,29 +83,34 @@ Key business metrics calculated:
 **📈 Key Insights**
 
 **1. Sales–Profit Decoupling**
-  High revenue does not consistently translate into high profit. Several high-sales periods show reduced profitability due to excessive discounting.
 
-<img width="857" height="487" alt="sales vs profit trind" src="https://github.com/user-attachments/assets/beaff45f-4dc6-4db2-9145-7d469c0a9dab" />
+High revenue does not consistently translate into high profit. Several high-sales periods show reduced profitability due to excessive discounting.
+
+<img width="857" height="487" alt="sales vs profit trend" src="https://github.com/user-attachments/assets/beaff45f-4dc6-4db2-9145-7d469c0a9dab" />
 
 **2. Discount Impact on Profitability**
+
 There is a strong negative relationship between discount levels and profit. Higher discounts significantly reduce margins, indicating inefficient pricing strategies.
 
 <img width="561" height="393" alt="Discount vs profit (Impact on probability)" src="https://github.com/user-attachments/assets/880711db-3c8a-4267-9aa8-c00c693ead1d" />
 
 **3. Regional Performance Imbalance**
+
 Profitability varies significantly across regions. Some high-sales regions contribute disproportionately low profit, highlighting the need for region-specific pricing strategies.
 
 <img width="644" height="393" alt="profit by region" src="https://github.com/user-attachments/assets/27986036-f114-422e-a3ec-ef455798692c" />
 
 **4. Category Concentration Risk**
+
 Revenue and profit are concentrated in a small number of categories, while several categories contribute low or negative returns.
 
-<img width="566" height="393" alt="profit by catergory" src="https://github.com/user-attachments/assets/73d53bfb-08b4-4e64-9f27-16599f2b8ebd" />
+<img width="566" height="393" alt="profit by category" src="https://github.com/user-attachments/assets/73d53bfb-08b4-4e64-9f27-16599f2b8ebd" />
 
 **5. Sub-Category Dependency Risk**
+
 A limited number of sub-categories drive most revenue, creating dependency risk and limiting diversification.
 
-<img width="860" height="537" alt="profit- sub catergory" src="https://github.com/user-attachments/assets/f7a6c951-d518-4e1a-aa02-94daec9f3d9a" />
+<img width="860" height="537" alt="profit- sub category" src="https://github.com/user-attachments/assets/f7a6c951-d518-4e1a-aa02-94daec9f3d9a" />
 
 
 **📊 Power BI Dashboard Features**
