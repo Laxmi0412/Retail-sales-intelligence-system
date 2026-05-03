@@ -1,4 +1,5 @@
 📊 Retail Sales Intelligence & Profit Optimization System
+
 **📌 Executive Summary**
 An end-to-end retail analytics system designed to evaluate sales performance, profitability, and discount efficiency. The project transforms raw transactional data into actionable business intelligence, helping identify margin leakage, optimize pricing strategy, and improve regional and product-level profitability.
 
@@ -15,12 +16,16 @@ Retail organizations often face inefficiencies such as:
 
 This project addresses these issues by identifying what truly drives profit versus what only drives sales volume.
 
-
 **🛠️ Tech Stack**
+
 **SQL**→ Data extraction, aggregation, KPI computation
+
 **Python (Pandas, NumPy)** → Data cleaning, transformation, exploratory analysis
+
 **Matplotlib / Seaborn** → Data visualization and insights generation
+
 **Power BI** → Interactive dashboards and business reporting
+
 **Excel** → Initial data validation and preprocessing
 
 
